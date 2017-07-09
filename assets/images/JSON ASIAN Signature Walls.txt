@@ -1,0 +1,550 @@
+products=[
+     {
+      product_ID:645,
+      name:'Amore',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Amore.jpg'
+    },    
+    {
+      product_ID:646,
+      name:'Autmn Glow',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Autmn Glow.jpg'
+    },    
+    {
+      product_ID:647,
+      name:'Behind the Scene',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Behind the Scene.jpg'
+    },    
+     {
+      product_ID:648,
+      name:'Bluff',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Bluff.jpg'
+    },    
+    {
+      product_ID:649,
+      name:'Boho Chic',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Boho Chic.jpg'
+    },
+    
+    {
+      product_ID:650,
+      name:'Bolt',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Bolt.jpg'
+    },
+    
+{
+      product_ID:651,
+      name:'Carre',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Carre.jpg'
+    },
+ {
+      product_ID:652,
+      name:'CheckMate',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/CheckMate.jpg'
+    },
+{
+      product_ID:653,
+      name:'Chettenad',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Chettenad.jpg'
+    },
+{
+      product_ID:654,
+      name:'Cogitare',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Cogitare.jpg'
+    },
+{
+      product_ID:655,
+      name:'Concerto',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Concerto.jpg'
+    },
+{
+      product_ID:656,
+      name:'Corner Continiuation',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Corner Continiuation.jpg'
+    },
+{
+      product_ID:657,
+      name:'Cosmopolitan',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Cosmopolitan.jpg'
+    },
+{
+      product_ID:658,
+      name:'Cubic Scape',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Cubic Scape.jpg'
+    },
+{
+      product_ID:659,
+      name:'Dawn',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Dawn.jpg'
+    },
+{
+      product_ID:660,
+      name:'Diagonal Mesh',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Diagonal Mesh.jpg'
+    },
+{
+      product_ID:661,
+      name:'Divine',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Divine.jpg'
+    },
+{
+      product_ID:662,
+      name:'DreamSicle',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/DreamSicle.jpg'
+    },
+{
+      product_ID:663,
+      name:'Dulcet Duration',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Dulcet Duration.jpg'
+    },
+{
+      product_ID:664,
+      name:'Expressonist Period',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Expressonist Period.jpg'
+    },
+{
+      product_ID:665,
+      name:'Figure it Out',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Figure it Out.jpg'
+    },
+{
+      product_ID:666,
+      name:'Flying Moon',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Flying Moon.jpg'
+    },
+{
+      product_ID:667,
+      name:'Freedom',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Freedom.jpg'
+    },
+{
+      product_ID:668,
+      name:'V336',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/V336.jpg'
+    },
+{
+      product_ID:669,
+      name:'Fret Beats',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Fret Beats.jpg'
+    },
+{
+      product_ID:670,
+      name:'Galaxy',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Galaxy.jpg'
+    },
+
+{
+      product_ID:671,
+      name:'Garden Tale',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Garden Tale.jpg'
+    },
+{
+      product_ID:672,
+      name:'Harmonica',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Harmonica.jpg'
+    },
+{
+      product_ID:673,
+      name:'Hocus Pocus',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Hocus Pocus.jpg'
+    },
+{
+      product_ID:674,
+      name:'Illusion',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Illusion.jpg'
+    },
+{
+      product_ID:675,
+      name:'Loggia',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Loggia.jpg'
+    },
+{
+      product_ID:676,
+      name:'Memories',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Memories.jpg'
+    },
+{
+      product_ID:677,
+      name:'Mingle',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Mingle.jpg'
+    },
+{
+      product_ID:678,
+      name:'Mirage',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Mirage.jpg'
+    },
+{
+      product_ID:679,
+      name:'Mistify',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Mistify.jpg'
+    },
+{
+      product_ID:680,
+      name:'Nestled In Dawn',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Nestled In Dawn.jpg'
+    },
+{
+      product_ID:681,
+      name:'On The Board',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/On The Board.jpg'
+    },
+{
+      product_ID:682,
+      name:'Origami Art',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Origami Art.jpg'
+    },
+{
+      product_ID:683,
+      name:'Parkour',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Parkour.jpg'
+    },
+{
+      product_ID:684,
+      name:'Patola',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Patola.jpg'
+    },
+{
+      product_ID:685,
+      name:'Perspective',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Perspective.jpg'
+    },
+{
+      product_ID:686,
+      name:'Pixel World',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Pixel World.jpg'
+    },
+{
+      product_ID:687,
+      name:'Pixelate',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Pixelate.jpg'
+    },
+{
+      product_ID:688,
+      name:'Prism',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Prism.jpg'
+    },
+{
+      product_ID:689,
+      name:'Prismatic',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Prismatic.jpg'
+    },
+{
+      product_ID:690,
+      name:'Re Born',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Re Born.jpg'
+    },
+{
+      product_ID:691,
+      name:'Rock On',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Rock On.jpg'
+    },
+{
+      product_ID:692,
+      name:'Scrabeo',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Scrabeo.jpg'
+    },
+{
+      product_ID:693,
+      name:'Season Knit',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Season Knit.jpg'
+    },
+{
+      product_ID:694,
+      name:'Silhouette',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Silhouette.jpg'
+    },
+{
+      product_ID:695,
+      name:'Snow White',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Snow White.jpg'
+    },
+{
+      product_ID:696,
+      name:'Sun City',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Sun City.jpg'
+    },
+{
+      product_ID:697,
+      name:'Tender Shell',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Tender Shell.jpg'
+    },
+{
+      product_ID:698,
+      name:'The Kiosk',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/The Kiosk.jpg'
+    },
+{
+      product_ID:699,
+      name:'Thrissur pooram ',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Thrissur pooram .jpg'
+    },
+{
+      product_ID:700,
+      name:'Tick Tack Toe',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Tick Tack Toe.jpg'
+    },
+{
+      product_ID:701,
+      name:'Timberland',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Timberland.jpg'
+    },
+{
+      product_ID:702,
+      name:'Tree of Life',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Tree of Life.jpg'
+    },
+{
+      product_ID:703,
+      name:'Tree Toe',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Tree Toe.jpg'
+    },
+{
+      product_ID:704,
+      name:'Trigonometry',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Trigonometry.jpg'
+    },
+{
+      product_ID:705,
+      name:'Trilogy',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Trilogy.jpg'
+    },
+{
+      product_ID:706,
+      name:'Trunck 07',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Trunck 07.jpg'
+    },
+{
+      product_ID:707,
+      name:'Vanity Voyage',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Vanity Voyage.jpg'
+    },
+
+{
+      product_ID:708,
+      name:'Vivacious Boulevard',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Vivacious Boulevard.jpg'
+    },
+{
+      product_ID:709,
+      name:'Vivacity',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Vivacity.jpg'
+    },
+{
+      product_ID:710,
+      name:'Wedges',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Wedges.jpg'
+    },
+{
+      product_ID:711,
+      name:'Zig Zag',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Zig Zag.jpg'
+    },
+{
+      product_ID:712,
+      name:'Zipper',
+      desc:'Signature Walls',
+      category:'Paints & Textures',
+      brand:'Asian Paints',
+      imgURL:'assets/images/Zipper.jpg'
+    },
+]

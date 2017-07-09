@@ -1,0 +1,259 @@
+products:[
+     {
+      product_ID:396,
+      name:'C201',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C201.jpg'
+    },    
+    {
+      product_ID:397,
+      name:'C201b',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C201b.jpg'
+    },    
+    {
+      product_ID:398,
+      name:'C202',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C202.jpg'
+    },    
+     {
+      product_ID:399,
+      name:'C202b',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C202b.jpg'
+    },    
+    {
+      product_ID:400,
+      name:'C203',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C203.jpg'
+    },
+    
+    {
+      product_ID:401,
+      name:'C203a',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C203a.jpg'
+    },
+    {
+      product_ID:402,
+      name:'C204',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C204.jpg'
+    },
+ {
+      product_ID:403,
+      name:'C204d',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C204d.jpg'
+    },
+{
+      product_ID:404,
+      name:'C205',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C205.jpg'
+    },
+{
+      product_ID:405,
+      name:'C206',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C206.jpg'
+    },
+{
+      product_ID:406,
+      name:'C209',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C209.jpg'
+    },
+{
+      product_ID:407,
+      name:'C210a',
+      desc:'Croma',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C210a.jpg'
+    },
+{
+      product_ID:408,
+      name:'C211a',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C211a.jpg'
+    },
+{
+      product_ID:409,
+      name:'C215',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C215.jpg'
+    },
+{
+      product_ID:410,
+      name:'C216',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C216.jpg'
+    },
+{
+      product_ID:411,
+      name:'C218',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C218.jpg'
+    },
+{
+      product_ID:412,
+      name:'C219a',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C219a.jpg'
+    },
+{
+      product_ID:413,
+      name:'C220',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C220.jpg'
+    },
+{
+      product_ID:414,
+      name:'C221',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C221.jpg'
+    },
+{
+      product_ID:415,
+      name:'C222',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C222.jpg'
+    }, 
+{
+      product_ID:416,
+      name:'C222a',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C222a.jpg'
+    },
+{
+      product_ID:417,
+      name:'C223',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C223.jpg'
+    },
+{
+      product_ID:418,
+      name:'C244a',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C244a.jpg'
+    },
+{
+      product_ID:419,
+      name:'C244b',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C244b.jpg'
+    },
+{
+      product_ID:420,
+      name:'C253',
+      desc:'Croma',',
+      category:'Faucets'
+      brand:'ESS ESS',,
+      imgURL:'assets/images/C253.jpg'
+    },
+{
+      product_ID:421,
+      name:'C253a',
+      desc:'Croma',',
+      category:'Faucets',
+      imgURL:'assets/images/C253a.jpg'
+    },
+{
+      product_ID:422,
+      name:'C255',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C255.jpg'
+    },
+{
+      product_ID:423,
+      name:'C256',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C256.jpg'
+    },
+{
+      product_ID:424,
+      name:'C259',
+      desc:'Quarter Turn Basin Faucets',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C259.jpg'
+    },
+{
+      product_ID:425,
+      name:'C260',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C260.jpg'
+    },
+{
+      product_ID:426,
+      name:'C270',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C270.jpg'
+    },
+{
+      product_ID:427,
+      name:'C271',
+      desc:'Croma',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C271.jpg'
+    },
+
+]

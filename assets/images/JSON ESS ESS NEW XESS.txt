@@ -1,0 +1,213 @@
+products=[
+     {
+      product_ID:540,
+      name:'NX101',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX101.jpg'
+    },    
+    {
+      product_ID:541,
+      name:'NX101b',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX101b.jpg'
+    },    
+    {
+      product_ID:542,
+      name:'NX102',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX102.jpg'
+    },    
+     {
+      product_ID:543,
+      name:'NX103',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX103.jpg'
+    },    
+    {
+      product_ID:544,
+      name:'NX103a',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX103a.jpg'
+    },
+    
+    {
+      product_ID:545,
+      name:'NX104',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX104.jpg'
+    },
+    
+{
+      product_ID:546,
+      name:'NX105',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX105.jpg'
+    },
+ {
+      product_ID:547,
+      name:'NX106',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX106.jpg'
+    },
+{
+      product_ID:548,
+      name:'NX107a',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX107a.jpg'
+    },
+{
+      product_ID:549,
+      name:'NX109',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX109.jpg'
+    },
+{
+      product_ID:550,
+      name:'NX110',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX110.jpg'
+    },
+{
+      product_ID:551,
+      name:'NX112',
+      desc:'New Xess',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX112.jpg'
+    },
+{
+      product_ID:552,
+      name:'NX113',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX113.jpg'
+    },
+{
+      product_ID:553,
+      name:'NX114',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX114.jpg'
+    },
+{
+      product_ID:554,
+      name:'NX115',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX115.jpg'
+    },
+{
+      product_ID:555,
+      name:'NX116',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX116.jpg'
+    },
+{
+      product_ID:556,
+      name:'NX117',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX117.jpg'
+    },
+{
+      product_ID:557,
+      name:'NX118',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX118.jpg'
+    },
+{
+      product_ID:558,
+      name:'NX123',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX123.jpg'
+    },
+{
+      product_ID:559,
+      name:'NX124',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX124.jpg'
+    },
+{
+      product_ID:560,
+      name:'NX126a',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX126a.jpg'
+    },
+{
+      product_ID:561,
+      name:'NX127',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX127.jpg'
+    },
+{
+      product_ID:562,
+      name:'NX128',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX128.jpg'
+    },
+{
+      product_ID:563,
+      name:'NX130',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX130.jpg'
+    },
+{
+      product_ID:564,
+      name:'NX132',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX132.jpg'
+    },
+{
+      product_ID:565,
+      name:'NX133',
+      desc:'New Xess',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/NX133.jpg'
+    },
+
+]

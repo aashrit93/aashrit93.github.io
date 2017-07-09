@@ -1,0 +1,19 @@
+PARRYWARE FAUCETS:
+
+BASIN FAUCETS
+Product ID 0-19 : Single Lever Basin Faucets
+Product ID 20-22: Sensor Tap Basin Faucets
+Product ID 23-44: Quarter Turn Basin Faucets
+Product ID 45-46: Push Tap Basin Faucets
+Product ID 47-55: Half Turn Basin Faucets
+
+BATH FAUCETS:
+PRODUCT ID 56-68:   Bath Spouts
+PRODUCT ID 69-133:  Single Lever
+PRODUCT ID 134-169: Twin Lever 
+
+KITCHEN FAUCETS:
+PRODUCT ID 170-205: Kitchen Faucets
+
+FAUCET COMPLEMENTS:
+PRODUCT ID 206-219  :Faucets Complements

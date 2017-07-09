@@ -1,0 +1,2860 @@
+[{
+  "id": 0,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 0,
+    "name": "Atlantis Basin Mixer without pop up",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Atlantis Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 1,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 1,
+    "name": "Atlantis Pillar Tap",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Atlantis Pillar Tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 2,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 2,
+    "name": "Dazzle Basin Mixer Chrome",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzle Basin Mixer Chrome.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 3,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 3,
+    "name": "Dazzle Basin Mixer without pop up",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzle Basin Mixer without pop up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 4,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 4,
+    "name": "Dazzle Pillar Cock with Aerator",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzle Pillar Cock with Aerator.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 5,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 5,
+    "name": "Dazzle Pillar Tap",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzle Pillar Tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 6,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 6,
+    "name": "Euclid",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Euclid.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 7,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 7,
+    "name": "Galaxy Basin Mixer without Pop Up",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 8,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 8,
+    "name": "Galaxy Wall Mounted Basin Mixer",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy Wall Mounted Basin Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 9,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 9,
+    "name": "Meander Basin Mixer without Pop Up",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Meander Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 10,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 10,
+    "name": "Meander Pillar Tap",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Meander Pillar Tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 11,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 11,
+    "name": "Tall Basin mixer without pop up",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Tall Basin mixer without pop up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 12,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 12,
+    "name": "Trento Basin Mixer without Pop Up",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trento Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 13,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 13,
+    "name": "Trento Pillar Tap",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trento Pillar Tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 14,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 14,
+    "name": "Verve Pillar Tap",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Pillar Tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 15,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 15,
+    "name": "Verve Tall Basin Mixer without Pop Up",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Tall Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 16,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 16,
+    "name": "Dazzle Pillar Cock with Aerator",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/b3.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 17,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 17,
+    "name": "Verve Wall Mounted Basin Mixer",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Wall Mounted Basin Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 18,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 18,
+    "name": "ZenX Basin Mixer without Pop up",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/ZenX Basin Mixer without Pop up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 19,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 19,
+    "name": "ZenX Pillar Cock with Aerator",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/ZenX Pillar Cock with Aerator.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 20,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 20,
+    "name": "Hawk E Tap AC Chrome",
+    "desc": "Sensor Tap Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Hawk E Tap AC Chrome.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 21,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 21,
+    "name": "Hawk E Tap DC Chrome",
+    "desc": "Sensor Tap Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Hawk E Tap DC Chrome.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 22,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 22,
+    "name": "TruSense E Sensor Taps AC and DC",
+    "desc": "Sensor Tap Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/TruSense E Sensor Taps AC and DC.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 23,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 23,
+    "name": "Agate Pillar Cock Swan Neck Aerator",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Pillar Cock Swan Neck Aerator.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 24,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 24,
+    "name": "Agate Tall Body Basin Mixer",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Tall Body Basin Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 25,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 25,
+    "name": "Agate Tall body pillar tap",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "imgURL": "assets/images/Agate Tall body pillar tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 26,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 26,
+    "name": "Diamond Quarter Turn Basin Mixer without Popup",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Quarter Turn Basin Mixer without Popup.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 27,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 27,
+    "name": "Diamond Quarter Turn Pillar Cock",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Quarter Turn Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 28,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 28,
+    "name": "Diamond Swan Neck Pillar Cock",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Swan Neck Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 29,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 29,
+    "name": "Dice Basin Mixer without Pop up",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Basin Mixer without Pop up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 30,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 30,
+    "name": "Dice Pillar Cock Foam Flow",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Pillar Cock Foam Flow.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 31,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 31,
+    "name": "Dice Swan Neck Pillar Cock",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Swan Neck Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 32,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 32,
+    "name": "Dazzle Pillar Cock with Aerator",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/b3.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 33,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 33,
+    "name": "Ease Basin Mixer",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Ease Basin Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 34,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 34,
+    "name": "Ease Pillar Cock",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Ease Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 35,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 35,
+    "name": "Jasper Basin Mixer without Pop Up",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jasper Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 36,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 36,
+    "name": "Jasper Pillar Cock without Aerator",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jasper Pillar Cock without Aerator.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 37,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 37,
+    "name": "New Ruby Basin Mixer without Pop Up",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/New Ruby Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 38,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 38,
+    "name": "New Ruby Pillar Cock",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/New Ruby Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 39,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 39,
+    "name": "Sapphire Basin Mixer without Pop up",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Basin Mixer without Pop up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 40,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 40,
+    "name": "Sapphire Pillar cock",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Pillar cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 41,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 41,
+    "name": "Smart High Neck Standalone Pillar Tap",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Smart High Neck Standalone Pillar Tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 42,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 42,
+    "name": "Trio Basin Mixer",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Basin Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 43,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 43,
+    "name": "Trio Pillar Cock",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 44,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 44,
+    "name": "Trio Swan Neck Pillar Cock",
+    "desc": "Quarter Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Swan Neck Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 45,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 45,
+    "name": "Lapis n Push Bib tap",
+    "desc": "Push Tap Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Lapis n Push Bib tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 46,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 46,
+    "name": "Lapis n Push Pillar Tap",
+    "desc": "Push Tap Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Lapis n Push Pillar Tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 47,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 47,
+    "name": "Amber Basin Mixer without Pop Up",
+    "desc": "Half Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Amber Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 48,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 48,
+    "name": "Amber Swan Neck Pillar Cock",
+    "desc": "Half Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Amber Swan Neck Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 49,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 49,
+    "name": "Coral Basin Mixture without Pop up",
+    "desc": "Half Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Basin Mixture without Pop up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 50,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 50,
+    "name": "Coral Smart Pillar Cock",
+    "desc": "Half Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Smart Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 51,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 51,
+    "name": "Coral Swan Neck Pillar Cock",
+    "desc": "Half Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Swan Neck Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 52,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 52,
+    "name": "Jade Swan Neck Pillar Cock",
+    "desc": "Half Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jade Swan Neck Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 53,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 53,
+    "name": "Pebble Basin Mixer without Pop Up",
+    "desc": "Half Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 54,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 54,
+    "name": "Pebble Smart Pillar Cock",
+    "desc": "Half Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Smart Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 55,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 55,
+    "name": "Pebble Swan Neck Pillar Cock",
+    "desc": "Half Turn Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Swan Neck Pillar Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 56,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 56,
+    "name": "Agate Bathtub Spout",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Bathtub Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 57,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 57,
+    "name": "Crust Bath Spout with diverter",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Crust Bath Spout with diverter.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 58,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 58,
+    "name": "Crust Bath Spout",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Crust Bath Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 59,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 59,
+    "name": "Euclid Bath Tub Spout Telephonic Shower",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Euclid Bath Tub Spout Telephonic Shower.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 60,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 60,
+    "name": "Euclid Bath tub Spout",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Euclid Bath tub Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 61,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 61,
+    "name": "Marvel Wall Spout",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Marvel Wall Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 62,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 62,
+    "name": "Pebble Bath tub spout",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Bath tub spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 63,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 63,
+    "name": "Spark Bath Tub Spout Tel Shower",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Spark Bath Tub Spout Tel Shower.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 64,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 64,
+    "name": "Spark Bath tub Spout",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Spark Bath tub Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 65,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 65,
+    "name": "Verve Wall Spout with Diverter",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Wall Spout with Diverter.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 66,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 66,
+    "name": "Verve Wall Spout",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Wall Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 67,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 67,
+    "name": "ZEN X Bathtub Spout with Diverter",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Zen X Bathtub Spout with Diverter.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 68,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 68,
+    "name": "ZEN X Bathtub Spout",
+    "desc": "Bath Spout Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Zen X Bathtub Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 69,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 69,
+    "name": "Agate 3 inlet diverter upper trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate 3 inlet diverter upper trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 70,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 70,
+    "name": "Agate Bib cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 71,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 71,
+    "name": "Agate Concealed Diverter uper trims",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Concealed Diverter uper trims.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 72,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 72,
+    "name": "Agate High Flow Diverter upper trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate High Flow Diverter upper trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 73,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 73,
+    "name": "Agate Single Lever wall mixer with bend",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Single Lever wall mixer with bend.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 74,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 74,
+    "name": "Amber Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Amber Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 75,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 75,
+    "name": "Amber Long Body Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Amber Long Body Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 76,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 76,
+    "name": "Amber Two way bib cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Amber Two way bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 77,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 77,
+    "name": "Atlantis Concealed Diverter Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Atlantis Concealed Diverter Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 78,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 78,
+    "name": "Atlantis Concealed Shower Mixer Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Atlantis Concealed Shower Mixer Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 79,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 79,
+    "name": "Aura",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Aura.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 80,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 80,
+    "name": "Coral Bib Cock Long Spout",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Bib Cock Long Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 81,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 81,
+    "name": "Coral Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 82,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 82,
+    "name": "Coral Long Body Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Long Body Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 83,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 83,
+    "name": "Crust 3 inlet diverter upper trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Crust 3 inlet diverter upper trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 84,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 84,
+    "name": "Crust Concealed Diverter Upper Trims",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Crust Concealed Diverter Upper Trims.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 85,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 85,
+    "name": "Crust Single Lever wall mixer with bend",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Crust Single Lever wall mixer with bend.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 86,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 86,
+    "name": "Crust Two way bib cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Crust Two way bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 87,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 87,
+    "name": "Dazzle Bib Tap Chrome",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzle Bib Tap Chrome.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 88,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 88,
+    "name": "Dazzle Concealed Diverter Chrome",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzle Concealed Diverter Chrome.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 89,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 89,
+    "name": "Dazzle Concealed Diverter Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzle Concealed Diverter Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 90,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 90,
+    "name": "Dazzler Concealed Shower Mixer Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzler Concealed Shower Mixer Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 91,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 91,
+    "name": "Diamond Quarter Turn Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Quarter Turn Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 92,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 92,
+    "name": "Diamond Quarter Turn bib cock_long spout",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Quarter Turn bib cock_long spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 93,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 93,
+    "name": "Diamond Quarter Turn long body bib cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Quarter Turn long body bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 94,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 94,
+    "name": "Diamond Two way bib cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Two way bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 95,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 95,
+    "name": "Dice Bib cock with Areator and Flange",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Bib cock with Areator and Flange.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 96,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 96,
+    "name": "Dice Bib Cock with wall flange",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Bib Cock with wall flange.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 97,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 97,
+    "name": "Dice Two way bib cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Two way bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 98,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 98,
+    "name": "Euclid 3 Inlet Diverter Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Euclid 3 Inlet Diverter Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 99,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 99,
+    "name": "Euclid Concealed Diverter Upper Trims",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Euclid Concealed Diverter Upper Trims.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 100,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 100,
+    "name": "Euclid High Flow Diverter Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Euclid High Flow Diverter Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 101,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 101,
+    "name": "Galaxy Concealed Diverter",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy Concealed Diverter.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 102,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 102,
+    "name": "Galaxy Concealed Shower Mixer",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy Concealed Shower Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 103,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 103,
+    "name": "Galaxy External Bath Shower Mixer",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy External Bath Shower Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 104,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 104,
+    "name": "Galaxy External shower mixer",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy External shower mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 105,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 105,
+    "name": "Jade Bib Cock Long Spout",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jade Bib Cock Long Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 106,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 106,
+    "name": "Jade Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jade Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 107,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 107,
+    "name": "Jade Long Body Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jade Long Body Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 108,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 108,
+    "name": "Jasper Quarter Long Body bib cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jasper Quarter Long Body bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 109,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 109,
+    "name": "Jasper Quarter Long Spout Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jasper Quarter Long Spout Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 110,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 110,
+    "name": "Jasper Quarter Turn Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jasper Quarter Turn Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 111,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 111,
+    "name": "Meander Concealed Diverter Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Meander Concealed Diverter Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 112,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 112,
+    "name": "Meander Concealed Shower Mixer Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Meander Concealed Shower Mixer Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 113,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 113,
+    "name": "New Ruby Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/New Ruby Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 114,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 114,
+    "name": "Pebble Bib Cock with wall flange",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Bib Cock with wall flange.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 115,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 115,
+    "name": "Pebble Long Body Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Long Body Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 116,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 116,
+    "name": "Pebble Long Spout bib cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Long Spout bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 117,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 117,
+    "name": "Sapphire Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 118,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 118,
+    "name": "Smart Bib Tap",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Smart Bib Tap.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 119,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 119,
+    "name": "Spark Bib Cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Spark Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 120,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 120,
+    "name": "Spark Concealed Diverter Upper Trims",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Spark Concealed Diverter Upper Trims.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 121,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 121,
+    "name": "Spark Single Lever Wall Mixer with bend",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Spark Single Lever Wall Mixer with bend.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 122,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 122,
+    "name": "Taps Spares High Flow Concealed Diverter BOdy",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Taps Spares High Flow Concealed Diverter BOdy.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 123,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 123,
+    "name": "Trento Concealed Diverter Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trento Concealed Diverter Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 124,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 124,
+    "name": "Trento Concealed Shower Mixer Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trento Concealed Shower Mixer Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 125,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 125,
+    "name": "Trio Bib cock",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 126,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 126,
+    "name": "Verve Concealed Diverter",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Concealed Diverter.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 127,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 127,
+    "name": "Verve Concealed Shower Mixer",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Concealed Shower Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 128,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 128,
+    "name": "Verve External bath shower mixer",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve External bath shower mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 129,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 129,
+    "name": "Verve External Shower Mixer",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve External Shower Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 130,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 130,
+    "name": "Atlantis Basin Mixer without pop up",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Atlantis Basin Mixer without Pop Up.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 131,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 131,
+    "name": "ZenX Bib Cock with Wall Flange",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/ZenX Bib Cock with Wall Flange.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 132,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 132,
+    "name": "ZenX Concealed Diverter Upper Trim",
+    "desc": "Single Lever Bath Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/ZenX Concealed Diverter Upper Trim.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 133,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 133,
+    "name": "ZenX Two Ways Bib Cock",
+    "desc": "Single Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/ZenX Two Ways Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 134,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 134,
+    "name": "Agate Two way bib cock",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Two way bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 135,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 135,
+    "name": "Agate Wall Mixer 3 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Wall Mixer 3 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 136,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 136,
+    "name": "Agate Wall Mixer with Crutch",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Wall Mixer with Crutch.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 137,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 137,
+    "name": "Agate Wall Mixer Overhead Shower",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Wall Mixer Overhead Shower.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 138,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 138,
+    "name": "Agate Wall Mixer with Crutch",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Wall Mixer with Crutch.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 139,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 139,
+    "name": "Amber Wall Mixer 3 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Amber Wall Mixer 3 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 140,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 140,
+    "name": "Coral Two way bib cock",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Two way bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 141,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 141,
+    "name": "Coral Wall Mixer 3 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Wall Mixer 3 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 142,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 142,
+    "name": "Coral Wall Mixer non telephonic without L bend",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Wall Mixer non telephonic without L bend.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 143,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 143,
+    "name": "Coral Wall Mixer with Crutch",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Wall Mixer with Crutch.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 144,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 144,
+    "name": "Diamond Quarter Turn Wall Mixer 3 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Quarter Turn Wall Mixer 3 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 145,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 145,
+    "name": "Diamond Quarter Turn Wall Mixer Overhead Shower",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Quarter Turn Wall Mixer Overhead Showerh.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 146,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 146,
+    "name": "Diamond Quarter Turn Wall Mixer with crutch",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Quarter Turn Wall Mixer with crutch.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 147,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 147,
+    "name": "Dice Wall Mixer 2 in 1 with bend pipe",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Wall Mixer 2 in 1 with bend pipe.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 148,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 148,
+    "name": "Dice Wall Mixer 3 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Wall Mixer 3 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 149,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 149,
+    "name": "Dice Wall Mixer with Crutch",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Wall Mixer with Crutch.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 150,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 150,
+    "name": "Jade Wall Mixer 3 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jade Wall Mixer 3 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 151,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 151,
+    "name": "Jade Wall Mixer with crutch",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jade Wall Mixer with crutch.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 152,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 152,
+    "name": "Jasper 2 Way Bib Cock",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jasper 2 Way Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 153,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 153,
+    "name": "Jasper Wall Mixer 2 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jasper Wall Mixer 2 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 154,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 154,
+    "name": "New Ruby Wall Mixer 3 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/New Ruby Wall Mixer 3 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 155,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 155,
+    "name": "New Ruby Wall Mixer Overhead Shower",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/New Ruby Wall Mixer Overhead Shower.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 156,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 156,
+    "name": "Pebble Two way bib cock",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Two way bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 157,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 157,
+    "name": "Pebble Wall Mixer 3 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Wall Mixer 3 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 158,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 158,
+    "name": "Pebble Wall Mixer Non Telephonic",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Wall Mixer Non Telephonic.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 159,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 159,
+    "name": "Pebble Wall Mixer with crutch",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Wall Mixer with crutch.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 160,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 160,
+    "name": "Sapphire Two way bib cock",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Two way bib cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 161,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 161,
+    "name": "Sapphire Wall Mixer 3 in 1_Hand shower",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Wall Mixer 3 in 1_Hand shower.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 162,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 162,
+    "name": "Sapphire Wall Mixer Non telephonic",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Wall Mixer Non telephonic.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 163,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 163,
+    "name": "Sapphire Wall Mixer Overhead Shower",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Wall Mixer Overhead Shower.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 164,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 164,
+    "name": "Sapphire Wall Mixer",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Wall Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 165,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 165,
+    "name": "Trio Two Way Bib Cock",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Two Way Bib Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 166,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 166,
+    "name": "Trio Wall Mixer 2 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Wall Mixer 2 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 167,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 167,
+    "name": "Trio Wall Mixer 3 in 1",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Wall Mixer 3 in 1.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 168,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 168,
+    "name": "Trio Wall Mixer with Crutch",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Wall Mixer with Crutch.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 169,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 169,
+    "name": "Verve",
+    "desc": "Twin Lever Basin Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 170,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 170,
+    "name": "Agate Quarter Turn Sink Mixer Wall Mounted",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Quarter Turn Sink Mixer Wall Mounted.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 171,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 171,
+    "name": "Agate Sink C SW SP",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Agate Sink C SW SP.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 172,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 172,
+    "name": "Amber Sink Cock",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Amber Sink Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 173,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 173,
+    "name": "Amber Sink Mixer Wall Mounted",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Amber Sink Mixer Wall Mounted.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 174,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 174,
+    "name": "Coral Sink Mixer",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral Sink Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 175,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 175,
+    "name": "Coral",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Coral.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 176,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 176,
+    "name": "Crust Sink Cock",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Crust Sink Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 177,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 177,
+    "name": "Dazzle Sink Spout Chrome",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzle Sink Spout Chrome.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 178,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 178,
+    "name": "Dazzle Sink Spout DM Chrome",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dazzle Sink Spout DM Chrome.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 179,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 179,
+    "name": "Diamond Quarter Turn Sink C SW SP",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond Quarter Turn Sink C SW SP.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 180,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 180,
+    "name": "Diamond QuarterTurn Sink Mixer",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Diamond QuarterTurn Sink Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 181,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 181,
+    "name": "Dice Sink Cock Swivel Spout",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Sink Cock Swivel Spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 182,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 182,
+    "name": "Dice Sink Mixer Wall Mounted",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Dice Sink Mixer Wall Mounted.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 183,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 183,
+    "name": "Euclid Sink C SW SP",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Euclid Sink C SW SP.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 184,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 184,
+    "name": "Galaxy Deck Mounted Sink Cock",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy Deck Mounted Sink Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 185,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 185,
+    "name": "Galaxy Deck Mounted Sink Mixer",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy Deck Mounted Sink Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 186,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 186,
+    "name": "Galaxy Wall Mounted Sink Cock",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy Wall Mounted Sink Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 187,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 187,
+    "name": "Galaxy Wall Mounted Sink Mixer",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Galaxy Wall Mounted Sink Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 188,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 188,
+    "name": "Jade JD Sink Mixer",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jade JD Sink Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 189,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 189,
+    "name": "Jade",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jade.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 190,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 190,
+    "name": "Jasper QT Sink Cock with swinging spout",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jasper QT Sink Cock with swinging spout.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 191,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 191,
+    "name": "Jasper QT Sink Mixer Wall Mounted",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Jasper QT Sink Mixer Wall Mounted.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 192,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 192,
+    "name": "New Ruby Sink C SW SP",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/New Ruby Sink C SW SP.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 193,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 193,
+    "name": "New Ruby Sink Mixer Wall Mounted",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/New Ruby Sink Mixer Wall Mounted.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 194,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 194,
+    "name": "Pebble Sink Mixer Wall Mounted",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble Sink Mixer Wall Mounted.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 195,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 195,
+    "name": "Pebble",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pebble.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 196,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 196,
+    "name": "Sapphire Sink C SW SP",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Sink C SW SP.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 197,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 197,
+    "name": "Sapphire Sink Mixer Wall Mounted",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Sapphire Sink Mixer Wall Mounted.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 198,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 198,
+    "name": "Spark Sink C SW SP",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Spark Sink C SW SP.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 199,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 199,
+    "name": "Trio Sink Cock C",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Sink Cock C.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 200,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 200,
+    "name": "Trio Sink Mixer Wall Mounted C",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Trio Sink Mixer Wall Mounted Ch.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 201,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 201,
+    "name": "Verve Deck Mounted Sink Cock",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Deck Mounted Sink Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 202,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 202,
+    "name": "Verve Deck Mounted Sink Mixer",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Deck Mounted Sink Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 203,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 203,
+    "name": "Verve Wall Mounted Sink Cock",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Wall Mounted Sink Cock.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 204,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 204,
+    "name": "Verve Wall Mounted Sink Mixer",
+    "desc": "Kitchen Faucets",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Verve Wall Mounted Sink Mixer.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 205,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 205,
+    "name": "Bottle Trap 12 inch Horizontal Pipe",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Bottle Trap 12 inch Horizontal Pipe.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 206,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 206,
+    "name": "Bottle Trap 12 inch Vertical Pipe",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Bottle Trap 12 inch Vertical Pipe.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 207,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 207,
+    "name": "Bottle Trap Heavy",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Bottle Trap Heavy.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 208,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 208,
+    "name": "Bottle Trap Light",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Bottle Trap Light.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 209,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 209,
+    "name": "Cardiff health faucet brass",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Cardiff health faucet brass.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 210,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 210,
+    "name": "Cascade Chrome",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Cascade Chrome.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 211,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 211,
+    "name": "Crust Health Faucet with hose & hook",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Crust Health Faucet with hose & hook.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 212,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 212,
+    "name": "Euclid Health Faucet with Hose & Hook",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Euclid Health Faucet with Hose & Hook.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 213,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 213,
+    "name": "Full Thread Waste Coupling",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Full Thread Waste Coupling.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 214,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 214,
+    "name": "Half Thread Waste Coupling",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Half Thread Waste Coupling.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 215,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 215,
+    "name": "Hosepipe 4572 1.5 Feet Connection Tube",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Hosepipe 4572 1.5 Feet Connection Tube.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 216,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 216,
+    "name": "Hosepipe 6096 2 Feet Connection Tube",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Hosepipe 6096 2 Feet Connection Tube.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 217,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 217,
+    "name": "Pop Up Waste Coupling",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Pop Up Waste Coupling.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 218,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 218,
+    "name": "Slimline Health Faucet",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Slimline Health Faucet.jpg",
+    "subCat": "Faucets"
+  }
+}, {
+  "id": 219,
+  "type": "bath",
+  "category": "bath",
+  "attributes": {
+    "product_ID": 219,
+    "name": "Urinal Doomed Waste Coupling",
+    "desc": "Faucet Complements",
+    "category": "Faucets",
+    "brand": "Parryware",
+    "imgURL": "assets/images/Urinal Doomed Waste Coupling.jpg",
+    "subCat": "Faucets"
+  }
+}]

@@ -1,0 +1,116 @@
+products:[
+     {
+      product_ID:506,
+      name:'HS01',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS01.jpg'
+    },    
+    {
+      product_ID:507,
+      name:'HS03',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS03.jpg'
+    },    
+    {
+      product_ID:508,
+      name:'HS3B',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS3B.jpg'
+    },    
+     {
+      product_ID:509,
+      name:'HS3C',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS3C.jpg'
+    },    
+    {
+      product_ID:510,
+      name:'HS04',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS04.jpg'
+    },
+    
+    {
+      product_ID:511,
+      name:'HS06',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS06.jpg'
+    },
+    
+{
+      product_ID:512,
+      name:'HS07',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS07.jpg'
+    },
+ {
+      product_ID:513,
+      name:'HS08',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS08.jpg'
+    },
+{
+      product_ID:514,
+      name:'HS09',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS09.jpg'
+    },
+{
+      product_ID:515,
+      name:'HS9A',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS9A.jpg'
+    },
+{
+      product_ID:516,
+      name:'HS10',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS10.jpg'
+    },
+{
+      product_ID:517,
+      name:'HS11',
+      desc:'Hotelier Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS11.jpg'
+    },
+{
+      product_ID:518,
+      name:'HS12',
+      desc:'Hotelier Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS12.jpg'
+    },
+{
+      product_ID:519,
+      name:'HS20',
+      desc:'Hotelier Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/HS20.jpg'
+    },
+]

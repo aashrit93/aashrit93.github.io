@@ -1,0 +1,332 @@
+products=[
+     {
+      product_ID:584,
+      name:'TM101',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM101.jpg'
+    },    
+    {
+      product_ID:585,
+      name:'TM102',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM102.jpg'
+    },    
+    {
+      product_ID:586,
+      name:'TM103',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM103.jpg'
+    },    
+     {
+      product_ID:587,
+      name:'TM103a',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM103a.jpg'
+    },    
+    {
+      product_ID:588,
+      name:'TM104',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM104.jpg'
+    },
+    
+    {
+      product_ID:589,
+      name:'TM105',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM105.jpg'
+    },
+    
+{
+      product_ID:590,
+      name:'TM106',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM106.jpg'
+    },
+ {
+      product_ID:591,
+      name:'TM107a',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM107a.jpg'
+    },
+{
+      product_ID:592,
+      name:'TM109',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM109.jpg'
+    },
+{
+      product_ID:593,
+      name:'TM110',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM110.jpg'
+    },
+{
+      product_ID:594,
+      name:'TM112',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM112.jpg'
+    },
+{
+      product_ID:595,
+      name:'TM113',
+      desc:'Tarim',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM113.jpg'
+    },
+{
+      product_ID:596,
+      name:'TM114',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM114.jpg'
+    },
+{
+      product_ID:597,
+      name:'TM115',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM115.jpg'
+    },
+{
+      product_ID:598,
+      name:'TM116',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM116.jpg'
+    },
+{
+      product_ID:599,
+      name:'TM117',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM117.jpg'
+    },
+{
+      product_ID:600,
+      name:'TM119',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM119.jpg'
+    },
+{
+      product_ID:601,
+      name:'TM120',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM120.jpg'
+    },
+{
+      product_ID:601,
+      name:'TM121',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM121.jpg'
+    },
+{
+      product_ID:601,
+      name:'TM125',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM125.jpg'
+    },
+{
+      product_ID:601,
+      name:'TM126',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM126.jpg'
+    },
+{
+      product_ID:601,
+      name:'TM128',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM128.jpg'
+    },
+{
+      product_ID:602,
+      name:'TM129a',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM129a.jpg'
+    },
+{
+      product_ID:603,
+      name:'TM130',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM130.jpg'
+    },
+{
+      product_ID:604,
+      name:'TM131',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM131.jpg'
+    },
+{
+      product_ID:605,
+      name:'TM132',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM132.jpg'
+    },
+{
+      product_ID:606,
+      name:'TM132b',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM132b.jpg'
+    },
+{
+      product_ID:607,
+      name:'TM132c',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM132c.jpg'
+    },
+{
+      product_ID:608,
+      name:'TM133',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM133.jpg'
+    },
+{
+      product_ID:609,
+      name:'TM134',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM134.jpg'
+    },
+{
+      product_ID:610,
+      name:'TM135',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM135.jpg'
+    },
+{
+      product_ID:611,
+      name:'TM136',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM136.jpg'
+    },
+{
+      product_ID:612,
+      name:'TM137',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM137.jpg'
+    },
+{
+      product_ID:613,
+      name:'TM139',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM139.jpg'
+    },
+{
+      product_ID:614,
+      name:'TM140',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM140.jpg'
+    },
+{
+      product_ID:615,
+      name:'TM143a',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM143a.jpg'
+    },
+{
+      product_ID:616,
+      name:'TM148',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM148.jpg'
+    },
+{
+      product_ID:617,
+      name:'TM150',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM150.jpg'
+    },
+{
+      product_ID:618,
+      name:'TM152',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM152.jpg'
+    },
+{
+      product_ID:619,
+      name:'TM153',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM153.jpg'
+    },
+{
+      product_ID:620,
+      name:'TM153a',
+      desc:'Tarim',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/TM153a.jpg'
+ 
+]

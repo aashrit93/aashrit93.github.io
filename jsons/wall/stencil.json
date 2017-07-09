@@ -1,0 +1,599 @@
+[{
+  "id": 712,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 712,
+    "name": "Aqua",
+    "desc": "Nature Inspired Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Aqua",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 713,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 713,
+    "name": "Backyard Story",
+    "desc": "Magneeto Themes - Wall fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Backyard Story",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 714,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 714,
+    "name": "Bamboo",
+    "desc": "Nature Inspired Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Bamboo.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 715,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 715,
+    "name": "Beach Time Fun",
+    "desc": "Magneeto Themes - Wall fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Beach Time Fun.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 716,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 716,
+    "name": "Bird Time Stories",
+    "desc": "Glow Themes - Wall fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Boho Chic.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 717,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 717,
+    "name": "Bliss",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Bliss.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 718,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 718,
+    "name": "Bouquet",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Bouquet.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 719,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 719,
+    "name": "Brocade",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Brocade.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 720,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 720,
+    "name": "Butterfly",
+    "desc": "Nature Inspired Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Butterfly.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 721,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 721,
+    "name": "Circles",
+    "desc": "Geometric Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Circles.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 722,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 722,
+    "name": "Cosmos",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Cosmos.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 723,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 723,
+    "name": "Dancing Stars",
+    "desc": "Magneeto Themes - Wall fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Dancing Stars.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 724,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 724,
+    "name": "Diya",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Diya.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 725,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 725,
+    "name": "Fairy Dust",
+    "desc": "Ceiling Themes - Wall fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Fairy Dust.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 726,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 726,
+    "name": "Fern",
+    "desc": "Nature Inspired Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Fern.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 727,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 727,
+    "name": "Floral Fusion",
+    "desc": "Nature Inspired Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Floral Fusion.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 728,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 728,
+    "name": "Frames",
+    "desc": "Geometric Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Frames.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 729,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 729,
+    "name": "French Riviera",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/French Riviera.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 730,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 730,
+    "name": "Fun at the circus",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Fun at the circus.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 731,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 731,
+    "name": "Garden of Privacy",
+    "desc": "Stencil Themes",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Garden of Privacy.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 732,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 732,
+    "name": "Gypsy beads",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Gypsy beads.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 733,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 733,
+    "name": "Jigsaw",
+    "desc": "Geometric Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Jigsaw.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 734,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 734,
+    "name": "Jungle Tale",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Jungle Tale.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 735,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 735,
+    "name": "Jurasica",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Jurasica.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 736,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 736,
+    "name": "Lighthouse Island",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Lighthouse Island.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 737,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 737,
+    "name": "Milky Way",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Milky Way.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 738,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 738,
+    "name": "Moon",
+    "desc": "Geometric Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Moon.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 739,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 739,
+    "name": "Morning Raga",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Morning Raga.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 740,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 740,
+    "name": "Ocean Scape",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Ocean Scape.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 741,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 741,
+    "name": "Oyster",
+    "desc": "Nature Inspired Themes",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Oyster.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 742,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 742,
+    "name": "Paisley",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Paisley.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 743,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 743,
+    "name": "Princess of Pop",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Princess of Pop.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 744,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 744,
+    "name": "Raga",
+    "desc": "Theme Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Raga.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 745,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 745,
+    "name": "Rose",
+    "desc": "Nature Inspired Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Rose.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 746,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 746,
+    "name": "Safari",
+    "desc": "Nature Inspired Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Safari.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 747,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 747,
+    "name": "Shoot",
+    "desc": "Nature Inspired Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Shoot.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 748,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 748,
+    "name": "Slam dunk",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Slam dunk.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 749,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 749,
+    "name": "Space Zappers",
+    "desc": "Ceiling Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Space Zappers.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 750,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 750,
+    "name": "Speed Machine",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Speed Machine.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 751,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 751,
+    "name": "Spring Diaries",
+    "desc": "Nature Inspired Themes",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Spring Diaries.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 752,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 752,
+    "name": "Spring",
+    "desc": "Nature Inspired Themes",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Spring.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 753,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 753,
+    "name": "Stardust",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Stardust.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 754,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 754,
+    "name": "Style Villa",
+    "desc": "Magneeto Themes - Wall Fashion for kids",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Style Villa.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 755,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 755,
+    "name": "Summer Bloom",
+    "desc": "Nature Inspired Themes",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Summer Bloom.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 756,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 756,
+    "name": "Talking Birds",
+    "desc": "Kids Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Talking Birds.jpg",
+    "subCat": "Stencils"
+  }
+}, {
+  "id": 757,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 757,
+    "name": "Zari",
+    "desc": "Ethnic Stencils",
+    "category": "Stencils",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Zari.jpg",
+    "subCat": "Stencils"
+  }
+}]

@@ -1,0 +1,148 @@
+products=[
+     {
+      product_ID:566,
+      name:'QS01',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS01.jpg'
+    },    
+    {
+      product_ID:567,
+      name:'QS02',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS02.jpg'
+    },    
+    {
+      product_ID:568,
+      name:'QS03',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS03.jpg'
+    },    
+     {
+      product_ID:569,
+      name:'QS04',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS04.jpg'
+    },    
+    {
+      product_ID:570,
+      name:'QS05',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS05.jpg'
+    },
+    
+    {
+      product_ID:571,
+      name:'QS06',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS06.jpg'
+    },
+    
+{
+      product_ID:572,
+      name:'QS07',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS07.jpg'
+    },
+ {
+      product_ID:573,
+      name:'QS09',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS09.jpg'
+    },
+{
+      product_ID:574,
+      name:'QS11',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS11.jpg'
+    },
+{
+      product_ID:575,
+      name:'QS13',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS13.jpg'
+    },
+{
+      product_ID:576,
+      name:'QS14',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS14.jpg'
+    },
+{
+      product_ID:577,
+      name:'QS19',
+      desc:'Quadra',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS19.jpg'
+    },
+{
+      product_ID:578,
+      name:'QS20',
+      desc:'Quadra',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS20.jpg'
+    },
+{
+      product_ID:579,
+      name:'QS21',
+      desc:'Quadra',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS21.jpg'
+    },
+{
+      product_ID:580,
+      name:'QS22',
+      desc:'Quadra',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS22.jpg'
+    },
+{
+      product_ID:581,
+      name:'QS24',
+      desc:'Quadra',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS24.jpg'
+    },
+{
+      product_ID:582,
+      name:'QS26',
+      desc:'Quadra',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS26.jpg'
+    },
+{
+      product_ID:583,
+      name:'QS27',
+      desc:'Quadra',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/QS27.jpg'
+    },
+]

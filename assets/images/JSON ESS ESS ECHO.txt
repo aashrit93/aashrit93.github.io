@@ -1,0 +1,124 @@
+products=[
+     {
+      product_ID:490,
+      name:'EC01',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC01.jpg'
+    },    
+    {
+      product_ID:491,
+      name:'EC02',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC02.jpg'
+    },    
+    {
+      product_ID:492,
+      name:'EC2A',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC2A.jpg'
+    },    
+     {
+      product_ID:493,
+      name:'EC2B',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC2B.jpg'
+    },    
+    {
+      product_ID:494,
+      name:'EC04',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC04.jpg'
+    },
+    
+    {
+      product_ID:495,
+      name:'EC4D',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC4D.jpg'
+    },
+    
+{
+      product_ID:496,
+      name:'EC05',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC05.jpg'
+    },
+ {
+      product_ID:497,
+      name:'EC07',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC07.jpg'
+    },
+{
+      product_ID:498,
+      name:'EC08',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC08.jpg'
+    },
+{
+      product_ID:499,
+      name:'EC09',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC09.jpg'
+    },
+{
+      product_ID:500,
+      name:'EC10',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC10.jpg'
+    },
+{
+      product_ID:501,
+      name:'EC11',
+      desc:'Echo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC11.jpg'
+    },
+{
+      product_ID:502,
+      name:'EC12',
+      desc:'Echo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC12.jpg'
+    },
+{
+      product_ID:503,
+      name:'EC13',
+      desc:'Echo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC13.jpg'
+    },
+{
+      product_ID:504,
+      name:'EC17',
+      desc:'Echo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/EC17.jpg'
+    },
+]

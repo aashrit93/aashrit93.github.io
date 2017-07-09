@@ -1,0 +1,173 @@
+products:[
+     {
+      product_ID:450,
+      name:'DS05',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS05.jpg'
+    },    
+    {
+      product_ID:451,
+      name:'DS06',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS06.jpg'
+    },    
+    {
+      product_ID:452,
+      name:'DS07',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS07.jpg'
+    },    
+     {
+      product_ID:453,
+      name:'DS08',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS08.jpg'
+    },    
+    {
+      product_ID:454,
+      name:'DS09',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS09.jpg'
+    },
+    
+    {
+      product_ID:455,
+      name:'DS10',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS10.jpg'
+    },
+    
+{
+      product_ID:456,
+      name:'DS11',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS11.jpg'
+    },
+ {
+      product_ID:457,
+      name:'DS11B',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS11B.jpg'
+    },
+{
+      product_ID:458,
+      name:'DS11C',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS11C.jpg'
+    },
+{
+      product_ID:459,
+      name:'DS12',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS12.jpg'
+    },
+{
+      product_ID:460,
+      name:'DS13',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS13.jpg'
+    },
+{
+      product_ID:461,
+      name:'DS14',
+      desc:'D-Series',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS14.jpg'
+    },
+{
+      product_ID:462,
+      name:'DS15',
+      desc:'D-Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS15.jpg'
+    },
+{
+      product_ID:463,
+      name:'DS16',
+      desc:'D-Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS16.jpg'
+    },
+{
+      product_ID:464,
+      name:'DS17',
+      desc:'D-Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS17.jpg'
+    },
+{
+      product_ID:465,
+      name:'DS18',
+      desc:'D-Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS18.jpg'
+    },
+{
+      product_ID:466,
+      name:'DS19',
+      desc:'D-Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS19.jpg'
+    },
+{
+      product_ID:467,
+      name:'DS20',
+      desc:'D-Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS20.jpg'
+    },
+{
+      product_ID:468,
+      name:'DS21',
+      desc:'D-Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS21.jpg'
+    },
+{
+      product_ID:469,
+      name:'DS22',
+      desc:'D-Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS22.jpg'
+    }, 
+{
+      product_ID:470,
+      name:'DS23',
+      desc:'D-Series',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/DS23.jpg'
+    },
+
+]

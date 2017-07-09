@@ -1,0 +1,188 @@
+products:[
+     {
+      product_ID:428,
+      name:'CZ01',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ01.jpg'
+    },    
+    {
+      product_ID:429,
+      name:'CZ02',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ02.jpg'
+    },    
+    {
+      product_ID:430,
+      name:'CZ03',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ03.jpg'
+    },    
+     {
+      product_ID:431,
+      name:'CZ04',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ04.jpg'
+    },    
+    {
+      product_ID:432,
+      name:'CZ05',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ05.jpg'
+    },
+    
+    {
+      product_ID:433,
+      name:'CZ06',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ06.jpg'
+    },
+    {
+      product_ID:434,
+      name:'CZ07',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ07.jpg'
+    },
+ {
+      product_ID:435,
+      name:'CZ08',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ08.jpg'
+    },
+{
+      product_ID:436,
+      name:'CZ09',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ09.jpg'
+    },
+{
+      product_ID:437,
+      name:'CZ10',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ10.jpg'
+    },
+{
+      product_ID:438,
+      name:'CZ11',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ11.jpg'
+    },
+{
+      product_ID:439,
+      name:'CZ12',
+      desc:'Cruzo',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ12.jpg'
+    },
+{
+      product_ID:440,
+      name:'CZ14',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ14.jpg'
+    },
+{
+      product_ID:441,
+      name:'CZ15',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ15.jpg'
+    },
+{
+      product_ID:442,
+      name:'CZ12',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ12.jpg'
+    },
+{
+      product_ID:443,
+      name:'CZ20',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ20.jpg'
+    },
+{
+      product_ID:444,
+      name:'CZ21',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ21.jpg'
+    },
+{
+      product_ID:445,
+      name:'CZ22',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ22.jpg'
+    },
+{
+      product_ID:446,
+      name:'C221',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/C221.jpg'
+    },
+{
+      product_ID:447,
+      name:'CZ23',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ23.jpg'
+    }, 
+{
+      product_ID:448,
+      name:'CZ24',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ24.jpg'
+    },
+{
+      product_ID:449,
+      name:'CZ26',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ26.jpg'
+    },
+{
+      product_ID:449,
+      name:'CZ28',
+      desc:'Cruzo',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/CZ28.jpg'
+    },
+
+]

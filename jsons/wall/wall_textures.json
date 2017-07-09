@@ -1,0 +1,443 @@
+[{
+  "id": 758,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 758,
+    "name": "Classique",
+    "desc": "Royal Play Antico",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Classique.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 759,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 759,
+    "name": "Linea",
+    "desc": "Royal Play Antico",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Linea",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 760,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 760,
+    "name": "Drizzle",
+    "desc": "Royal Play Dune",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Drizzle.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 761,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 761,
+    "name": "Halo",
+    "desc": "Royal Play Dune",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Halo.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 762,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 762,
+    "name": "Breeze",
+    "desc": "Royal Play Infinitex",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Breeze.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 763,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 763,
+    "name": "Bricks",
+    "desc": "Royal Play Infinitex",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Bricks.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 764,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 764,
+    "name": "Hive",
+    "desc": "Royal Play Infinitex",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Hive.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 765,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 765,
+    "name": "Pebbles",
+    "desc": "Royal Play Infinitex",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Pebbles.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 766,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 766,
+    "name": "Ripple",
+    "desc": "Royal Play Infinitex",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Ripple.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 767,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 767,
+    "name": "Shale",
+    "desc": "Royal Play Infinitex",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Shale.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 768,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 768,
+    "name": "Shale",
+    "desc": "Royal Play Infinitex",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Shale.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 769,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 769,
+    "name": "Classic",
+    "desc": "Royal Play Safari",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Classic.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 770,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 770,
+    "name": "Combing",
+    "desc": "Royal Play Safari",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Combing.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 771,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 771,
+    "name": "Sleet",
+    "desc": "Royal Play Safari",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Sleet.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 772,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 772,
+    "name": "Marble",
+    "desc": "Royal Play Stucco",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Marble.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 773,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 773,
+    "name": "Slate",
+    "desc": "Royal Play Stucco",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Slate.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 774,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 774,
+    "name": "Brushing",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Brushing.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 775,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 775,
+    "name": "Canvas",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Canvas.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 776,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 776,
+    "name": "Colour Wash",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Colour Wash.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 777,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 777,
+    "name": "Combing",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Combing.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 778,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 778,
+    "name": "Crinkle",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Crinkle.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 779,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 779,
+    "name": "Dapple",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Dapple.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 780,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 780,
+    "name": "Delta",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Delta.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 781,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 781,
+    "name": "Disc",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disc.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 782,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 782,
+    "name": "Fizz",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Fizz.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 783,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 783,
+    "name": "Ragging",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Ragging.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 784,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 784,
+    "name": "Seashell",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Seashell.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 785,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 785,
+    "name": "Spatula",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Spatula.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 785,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 785,
+    "name": "Spiral",
+    "desc": "Royal Play Stucco",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Spiral.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 786,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 786,
+    "name": "Splash",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Splash.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 787,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 787,
+    "name": "Sponging",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Sponging.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 788,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 788,
+    "name": "Timber",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Timber.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 789,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 789,
+    "name": "Torrent",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Torrent.jpg",
+    "subCat": "Wall Textures"
+  }
+}, {
+  "id": 790,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 790,
+    "name": "Weaving",
+    "desc": "Royal Play Metallics",
+    "category": "Wall Textures",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Weaving.jpg",
+    "subCat": "Wall Textures"
+  }
+}]

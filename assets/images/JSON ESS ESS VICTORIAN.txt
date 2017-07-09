@@ -1,0 +1,196 @@
+products=[
+     {
+      product_ID:621,
+      name:'V301',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V301.jpg'
+    },    
+    {
+      product_ID:V302,
+      name:'TM102',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V302.jpg'
+    },    
+    {
+      product_ID:623,
+      name:'V303',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V303.jpg'
+    },    
+     {
+      product_ID:624,
+      name:'V304',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V304.jpg'
+    },    
+    {
+      product_ID:625,
+      name:'V305',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V305.jpg'
+    },
+    
+    {
+      product_ID:626,
+      name:'V306',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V306.jpg'
+    },
+    
+{
+      product_ID:627,
+      name:'V307',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V307.jpg'
+    },
+ {
+      product_ID:628,
+      name:'V309',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V309.jpg'
+    },
+{
+      product_ID:629,
+      name:'V310',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V310.jpg'
+    },
+{
+      product_ID:630,
+      name:'V312',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V312.jpg'
+    },
+{
+      product_ID:631,
+      name:'V313',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V313.jpg'
+    },
+{
+      product_ID:632,
+      name:'V314',
+      desc:'Victorian',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V314.jpg'
+    },
+{
+      product_ID:633,
+      name:'V315',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V315.jpg'
+    },
+{
+      product_ID:634,
+      name:'V316',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V316.jpg'
+    },
+{
+      product_ID:635,
+      name:'V317',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V317.jpg'
+    },
+{
+      product_ID:636,
+      name:'V318',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V318.jpg'
+    },
+{
+      product_ID:637,
+      name:'V319',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V319.jpg'
+    },
+{
+      product_ID:638,
+      name:'V320',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V320.jpg'
+    },
+{
+      product_ID:639,
+      name:'V325',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V325.jpg'
+    },
+{
+      product_ID:640,
+      name:'V326',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V326.jpg'
+    },
+{
+      product_ID:641,
+      name:'V327',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V327.jpg'
+    },
+{
+      product_ID:642,
+      name:'V328',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V328.jpg'
+    },
+{
+      product_ID:643,
+      name:'V329a',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V329a.jpg'
+    },
+{
+      product_ID:644,
+      name:'V336',
+      desc:'Victorian',',
+      category:'Faucets',
+      brand:'ESS ESS',
+      imgURL:'assets/images/V336.jpg'
+    },
+]

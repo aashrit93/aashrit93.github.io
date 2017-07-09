@@ -1,0 +1,1262 @@
+[{
+  "id": 1001,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1001,
+    "name": "100 Aker Wood",
+    "desc": "Winnie the Pooh wall stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/100 Aker Wood.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1002,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1002,
+    "name": "ABC Primary Tree",
+    "desc": "Trees and Branches Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/ABC Primary Tree.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1003,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1003,
+    "name": "Animal Alphabet Dena Designs",
+    "desc": "Trees and Branches Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Animal Alphabet Dena Designs.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1004,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1004,
+    "name": "Avengers Assemble",
+    "desc": "Popular Characters Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Cottage walk scroll.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1005,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1005,
+    "name": "Babysaurus2",
+    "desc": "Birds and Animals stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Crackle texture.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1006,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1006,
+    "name": "Best Fairy Friends",
+    "desc": "Fairy Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Best Fairy Friends.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1007,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1007,
+    "name": "Brushwork Butterfly",
+    "desc": "Flowers and Butterflies stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Brushwork Butterfly.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1008,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1008,
+    "name": "Butterflies and Dragonflies glow in the dark",
+    "desc": "Flowers and Butterflies",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Butterflies and Dragonflies glow in the dark.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1009,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1009,
+    "name": "Carousel Horse",
+    "desc": "Birds and Animals Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Carousel Horse.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1010,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1010,
+    "name": "Cars",
+    "desc": "Animated Movie Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Cars.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1011,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1011,
+    "name": "Cars-Mater",
+    "desc": "Animated Movie Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Cars-Mater.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1012,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1012,
+    "name": "Cars-Piston Cup",
+    "desc": "Animated Movie Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Cars-Piston Cup.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1013,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1013,
+    "name": "Comic Book Cover Iron Man",
+    "desc": "Popular Character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Comic Book Cover Iron Man.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1014,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1014,
+    "name": "Comic Book Cover-Captain America",
+    "desc": "Popular Character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Comic Book Cover-Captain America.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1015,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1015,
+    "name": "Comic Book Cover-Fantastic 4",
+    "desc": "Popular Character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Comic Book Cover-Fantastic 4.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1016,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1016,
+    "name": "Comic Book Cover-SpiderMan1",
+    "desc": "Popular Character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Comic Book Cover-SpiderMan1.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1017,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1017,
+    "name": "Comic Book Cover-Thor",
+    "desc": "Popular Character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Comic Book Cover-Thor.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1018,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1018,
+    "name": "Comic Book Cover-X Men",
+    "desc": "Popular Character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Comic Book Cover-X Men.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1019,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1019,
+    "name": "Construction Trucks",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Construction Trucks.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1020,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1020,
+    "name": "Daisy Duck",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Daisy Duck.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1021,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1021,
+    "name": "Disney Cars Friends to the finish",
+    "desc": "Popular Character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Cars Friends to the finish.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1022,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1022,
+    "name": "Disney Fairies Secret of the wings",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Fairies Secret of the wings.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1023,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1023,
+    "name": "Disney Fairies -Tinkerbell",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Fairies -Tinkerbell.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1024,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1024,
+    "name": "Two tone damask",
+    "desc": "Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Two tone damask.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1025,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1025,
+    "name": "Disney Fairies",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Fairies.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1026,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1026,
+    "name": "Disney Princess- Cinderella Glamour",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Princess- Cinderella Glamour.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1027,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1027,
+    "name": "Disney Princess -Princess Castle",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Princess -Princess Castle.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1028,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1028,
+    "name": "Disney Princess-Princess Carriage",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Princess-Princess Carriage.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1029,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1029,
+    "name": "Disney Princess-Princess Castle 2",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Princess-Princess Castle 2.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1030,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1030,
+    "name": "Disney Princess-Princess",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Princess-Princess.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1031,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1031,
+    "name": "Disney Princess-Royal Debut",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Disney Princess-Royal Debut.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1032,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1032,
+    "name": "Doc McStuffins",
+    "desc": "Animated Movies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Doc McStuffins.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1033,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1033,
+    "name": "Donald Duck",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Donald Duck.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1034,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1034,
+    "name": "Dotted Tree",
+    "desc": "Trees and Branches Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Dotted Tree.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1035,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1035,
+    "name": "Eiffel Tower",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Eiffel Tower.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1036,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1036,
+    "name": "Fairy Garden",
+    "desc": "Princessess and Fairies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Fairy Garden.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1037,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1037,
+    "name": "Finding Nemo 2",
+    "desc": "Animated Movie character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Finding Nemo 2.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1038,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1038,
+    "name": "Finding Nemo Sharks",
+    "desc": "Animated Movie character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Finding Nemo Sharks.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1039,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1039,
+    "name": "Finding Nemo",
+    "desc": "Animated Movie character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Finding Nemo.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1040,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1040,
+    "name": "Flower Stripe",
+    "desc": "Flowers and Butterflies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Flower Stripe.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1041,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1041,
+    "name": "Goofy",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Goofy.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1042,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1042,
+    "name": "Happi Cupcake",
+    "desc": "Symbol Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Happi Cupcake.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1043,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1043,
+    "name": "Happi scroll tree letter branch",
+    "desc": "Symbol Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Happi scroll tree letter branch.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1044,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1044,
+    "name": "Heart and Flower peace sign",
+    "desc": "Symbol Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Heart and Flower peace sign.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1045,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1045,
+    "name": "Hot Air balloons",
+    "desc": "Symbol Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Hot Air balloons.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1046,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1046,
+    "name": "Jake and the Neverland Pirates Captain Hook",
+    "desc": "Popular Character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Jake and the Neverland Pirates Captain Hook.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1047,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1047,
+    "name": "Jake and the Neverland Pirates",
+    "desc": "Popular Character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Jake and the Neverland Pirates.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1048,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1048,
+    "name": "Jungle Adventure",
+    "desc": "Birds and Animals Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Jungle Adventure.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1049,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1049,
+    "name": "Jungle Animal New Baby",
+    "desc": "Birds and Animals Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Jungle Animal New Baby.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1050,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1050,
+    "name": "Jungle Animal Polka Dot",
+    "desc": "Birds and Animals Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Jungle Animal Polka Dot.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1051,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1051,
+    "name": "Laugh Play Dream",
+    "desc": "Symbol Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Laugh Play Dream.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1052,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1052,
+    "name": "Lightening Mc.Queen",
+    "desc": "Animated movie characters Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Lightening Mc.Queen.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1053,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1053,
+    "name": "Marvel Classic Captain America",
+    "desc": "Popular characters stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Marvel Classic Captain America.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1054,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1054,
+    "name": "Marvel Classic Hulk",
+    "desc": "Popular characters stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Marvel Classic Hulk.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1055,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1055,
+    "name": "Marvel Classic Spiderman",
+    "desc": "Popular characters stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Marvel Classic Spiderman.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1056,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1056,
+    "name": "Marvel Classic Thor",
+    "desc": "Popular characters stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Marvel Classic Thor.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1057,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1057,
+    "name": "Marvel Classic Wolverine",
+    "desc": "Popular characters stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Marvel Classic Wolverine.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1058,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1058,
+    "name": "Marvel Classics",
+    "desc": "Popular characters stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Marvel Classics.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1059,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1059,
+    "name": "Marvel Comic Panel - X Menk",
+    "desc": "Popular characters stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Marvel Comic Panel - X Men.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1060,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1060,
+    "name": "Metallic Black & Silver Frames",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Metallic Black & Silver Frames.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1061,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1061,
+    "name": "Mickey & Friends",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Mickey & Friends.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1062,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1062,
+    "name": "Mickey & Friends2",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Mickey & Friends2.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1063,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1063,
+    "name": "Mickey Chalkboard",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Mickey Chalkboard.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1064,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1064,
+    "name": "Mickey Mouse Clubhouse Capers",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Mickey Mouse Clubhouse Capers.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1065,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1065,
+    "name": "Mickey&Friends Typography",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Mickey&Friends Typography.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1066,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1066,
+    "name": "Mickey",
+    "desc": "DIsney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Mickey.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1067,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1067,
+    "name": "Minnie Bow",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Minnie Bow.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1068,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1068,
+    "name": "Minnie Fashionista",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Minnie Fashionista.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1069,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1069,
+    "name": "Monster Inc Giant Sully & Boo",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Monster Inc Giant Sully & Boo.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1070,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1070,
+    "name": "Monsters Inc",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Monsters Inc.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1071,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1071,
+    "name": "Nilaya DDLJ Tree",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Nilaya DDLJ Tree.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1072,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1072,
+    "name": "Noahs Ark",
+    "desc": "Birds and Animals Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Noahs Ark.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1073,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1073,
+    "name": "Peace Sign Frames",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Peace Sign Frames.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1074,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1074,
+    "name": "Pink & Purple Frames",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Pink & Purple Frames.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1075,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1075,
+    "name": "Pirate Ship",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Pirate Ship.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1076,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1076,
+    "name": "Planes Dusty the Plane",
+    "desc": "Animated movies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Planes Dusty the Plane.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1077,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1077,
+    "name": "Planes",
+    "desc": "Animated movies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Planes.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1078,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1078,
+    "name": "Play Ball",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Play Ball.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1079,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1079,
+    "name": "Pluto",
+    "desc": "Disney Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Pluto.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1080,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1080,
+    "name": "Princess Ariel",
+    "desc": "Popular character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Princess Ariel.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1081,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1081,
+    "name": "Princess Belle",
+    "desc": "Popular character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Princess Belle.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1082,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1082,
+    "name": "Princess Rapunzel",
+    "desc": "Popular character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Princess Rapunzel.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1083,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1083,
+    "name": "Rock A Bye Bird",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Rock A Bye Bird.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1084,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1084,
+    "name": "Rocket Dog",
+    "desc": "Birds and Animals Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Rocket Dog.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1085,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1085,
+    "name": "Scroll Headboard",
+    "desc": "Flowers and Butterflies Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Scroll Headboard.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1086,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1086,
+    "name": "Sofia the first",
+    "desc": "Popular character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Sofia the first.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1087,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1087,
+    "name": "Sugar Blossom",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Sugar Blossom.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1088,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1088,
+    "name": "Toy Story 3",
+    "desc": "Animated movie Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Toy Story 3.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1089,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1089,
+    "name": "Toy Story Buzz Giant",
+    "desc": "Animated movie Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Toy Story Buzz Giant.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1090,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1090,
+    "name": "Toy Story Jesse Giant",
+    "desc": "Animated movie Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Toy Story Jesse Giant.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1091,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1091,
+    "name": "Toy Story Woody Giant",
+    "desc": "Animated movie Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Toy Story Woody Giant.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1092,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1092,
+    "name": "Transportation Giant",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Transportation Giant.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1093,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1093,
+    "name": "Winnie the Pooh",
+    "desc": "Popular character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Winnie the Pooh.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1094,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1094,
+    "name": "Winnie the Pooh-Pooh & Piglet",
+    "desc": "Popular character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Winnie the Pooh-Pooh & Piglet.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1095,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1095,
+    "name": "Winnie the Pooh-Pooh and Friends",
+    "desc": "Popular character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Winnie the Pooh-Pooh and Friends.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1096,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1096,
+    "name": "Winnie the Pooh-Tigger",
+    "desc": "Popular character Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Winnie the Pooh-Tigger.jpg",
+    "subCat": "Wallstickers"
+  }
+}, {
+  "id": 1097,
+  "type": "wallpaper",
+  "category": "wallpaper",
+  "attributes": {
+    "product_ID": 1097,
+    "name": "Work Like a Captain",
+    "desc": "Symbols Stickers",
+    "category": "Wallstickers",
+    "brand": "Asian Paints",
+    "imgURL": "assets/images/Work Like a Captain.jpg",
+    "subCat": "Wallstickers"
+  }
+}]
